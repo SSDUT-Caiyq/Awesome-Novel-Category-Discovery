@@ -10,6 +10,10 @@
 
 - <a name="todo"></a> AutoNovel: Automatically Discovering and Learning Novel Visual Categories(**TPAMI2021**) [[Paper](https://arxiv.org/abs/2106.15252)] [[Code](https://github.com/k-han/AutoNovel)]
 
+- <a name="todo"></a> A Unified Objective for Novel Class Discovery(**TPAMI2021**) [[Paper](https://arxiv.org/abs/2108.08536)] [[Code](https://github.com/DonkeyShot21/UNO)]
+
+- <a name="todo"></a> Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data(**TPAMI2021**) [[Paper](https://arxiv.org/abs/2104.12673)]
+
 ### 2020
 
 ### 2019
