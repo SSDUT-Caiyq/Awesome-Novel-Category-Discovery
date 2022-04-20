@@ -18,11 +18,11 @@
 
 - <a name="todo"></a> Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data(**ICCV2021**) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-and ICCV_2021_paper.html)]
 
-
+- <a name="todo"></a> Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data(**CVPR2021**) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-and ICCV_2021_paper.html)]
 
 - <a name="todo"></a> Neighborhood Contrastive Learning for Novel Class Discovery(**CVPR2021**) [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_Neighborhood_Contrastive_Learning_for_Novel_Class_Discovery_CVPR_2021_paper.html)]
 
-- <a name="todo"></a> OpenMix Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World(****) [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.html)] [[Code]()]
+- <a name="todo"></a> OpenMix Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World(**CVPR2021**) [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.html)] [[Code]()]
 
 - <a name="todo"></a> Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation(**NeurIPS2021**) [[Paper](https://proceedings.neurips.cc/paper/2021/hash/c203d8a151612acf12457e4d67635a95-Abstract.html)]
 ### 2020
