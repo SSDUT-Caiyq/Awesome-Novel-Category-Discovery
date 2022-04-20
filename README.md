@@ -16,7 +16,9 @@
 
 - <a name="todo"></a> A Unified Objective for Novel Class Discovery(**ICCV2021**) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.html)] [[Code](https://github.com/DonkeyShot21/UNO)]
 
-- <a name="todo"></a> Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data(**ICCV2021**) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-_and ICCV_2021_paper.html)]
+- <a name="todo"></a> Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data(**ICCV2021**) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-and ICCV_2021_paper.html)]
+
+
 
 - <a name="todo"></a> Neighborhood Contrastive Learning for Novel Class Discovery(**CVPR2021**) [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_Neighborhood_Contrastive_Learning_for_Novel_Class_Discovery_CVPR_2021_paper.html)]
 
